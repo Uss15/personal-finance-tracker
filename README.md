@@ -43,4 +43,8 @@ A sleek and interactive web application built with Python and Streamlit to help 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+## Contact 📧
+For any inquiries or feedback, feel free to reach out:
+- **Email**: saifebasher123@gmail.com
+
 *Built with ❤️ for a professional portfolio.*
